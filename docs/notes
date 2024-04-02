@@ -1,0 +1,19 @@
+[ython setup environment
+]
+
+
+https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git
+git config --global user.name "Mona Lisa"
+
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address
+git config --global user.email "YOUR_EMAIL"
+
+
+python3 -m pip install pyqt6
+
+python3 -m pip install pyqt6-tools
+
+python3 -m pip install pyside6
+
+qt6-tools designer
+
