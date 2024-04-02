@@ -17,3 +17,7 @@ python3 -m pip install pyside6
 
 qt6-tools designer
 
+
+https://sebhastian.com/python-no-module-named-pkg-resources/
+
+pip3 install --upgrade setuptools
