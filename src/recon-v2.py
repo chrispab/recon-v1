@@ -1,6 +1,9 @@
 import sys
 from PyQt6.QtWidgets import QApplication, QLabel, QPushButton, QGridLayout, QWidget, QLineEdit
 
+from PyQt6.uic import loadUi
+
+
 
 def on_choose_file_1btn_click():
     print('Button 1 clicked!')
