@@ -1,3 +1,4 @@
 docs/PythonQtGUIs.pdf
-test_data/2024-02-21-st-siteref_100278.csv
-test_data/2024-02-21-st-siteref_101010.csv
+test_data/*.csv
+test_files/*.csv
+
