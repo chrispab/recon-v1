@@ -2,3 +2,4 @@ docs/PythonQtGUIs.pdf
 test_data/*.csv
 test_files/*.csv
 
+docs/*.pdf
