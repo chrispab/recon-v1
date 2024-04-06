@@ -27,3 +27,8 @@ qt6-tools designer src/files_v1.ui
 https://sebhastian.com/python-no-module-named-pkg-resources/
 
 pip3 install --upgrade setuptools
+
+
+
+sudo rsync -avhP  /media/$USER/usb_blue/backups/web-dev-backup-2024-04-05-1608/ $HOME/dev/
+

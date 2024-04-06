@@ -1,13 +1,7 @@
-import sys
 
 from PyQt6.QtWidgets import (
     QApplication,
     QMainWindow,
-    QLabel,
-    QPushButton,
-    QGridLayout,
-    QWidget,
-    QLineEdit,
 )
 
 from PyQt6.uic import loadUi
