@@ -32,3 +32,4 @@ pip3 install --upgrade setuptools
 
 sudo rsync -avhP  /media/$USER/usb_blue/backups/web-dev-backup-2024-04-05-1608/ $HOME/dev/
 
+python src/pmain.py -f test_data/010.csv
