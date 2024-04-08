@@ -1,3 +1,5 @@
+# https://doc.qt.io/qtforpython-6/tutorials/datavisualize/add_tableview.html
+
 from PySide6.QtCore import Slot
 from PySide6.QtGui import QAction, QKeySequence
 from PySide6.QtWidgets import QMainWindow
